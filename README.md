@@ -1,3 +1,3 @@
 # hello-world
-123456
+DO NOT FINISH!
 浅尝辄止
